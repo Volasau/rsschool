@@ -61,6 +61,7 @@ multiply(1, 1)
 ---
 
 17 years a sold car parts (2006 - 2022)
+
 Student stage#0 ih RSSchool (2022 - 2023)
 
 - **My projects:**
