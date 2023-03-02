@@ -20,7 +20,7 @@
 
 I am 40 years old, I worked 17 years as a sell car parts. I have good interpersonal skills, am an excellent team worker and very willing to learn and develop new skills. That is why I`m here. My goal is to gain knowledge in the field of front-end development.
 
-- **My stengths:**
+- **_My stengths:_**
   - Quick learner
   - Full immersion in the learn
   - Diligence
@@ -64,7 +64,7 @@ multiply(1, 1)
 
 Student stage#0 in RSSchool (2022 - 2023)
 
-- **My projects:**
+- **_My projects:_**
   - [Momentum](https://volasau-jsfepreschool2022q4-momentum.netlify.app/)
   - [Plants](https://rolling-scopes-school.github.io/volasau-JSFEPRESCHOOL2022Q4/plants/)
 
@@ -74,8 +74,9 @@ Student stage#0 in RSSchool (2022 - 2023)
 
 ---
 
-**University:** Gomel State Technical University
-**Course:** QA manual engineer
+**_University:_** Gomel State Technical University
+
+**_Course:_** QA manual engineer
 
 ---
 
