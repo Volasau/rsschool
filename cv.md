@@ -62,11 +62,11 @@ multiply(1, 1)
 
 17 years a sold car parts (2006 - 2022)
 
-Student stage#0 ih RSSchool (2022 - 2023)
+Student stage#0 in RSSchool (2022 - 2023)
 
 - **My projects:**
-- [Momentum](https://volasau-jsfepreschool2022q4-momentum.netlify.app/)
-- [Plants](https://rolling-scopes-school.github.io/volasau-JSFEPRESCHOOL2022Q4/plants/)
+  - [Momentum](https://volasau-jsfepreschool2022q4-momentum.netlify.app/)
+  - [Plants](https://rolling-scopes-school.github.io/volasau-JSFEPRESCHOOL2022Q4/plants/)
 
 ---
 
