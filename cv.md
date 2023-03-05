@@ -67,6 +67,7 @@ Student stage#0 in RSSchool (2022 - 2023)
 - **_My projects:_**
   - [Momentum](https://volasau-jsfepreschool2022q4-momentum.netlify.app/)
   - [Plants](https://rolling-scopes-school.github.io/volasau-JSFEPRESCHOOL2022Q4/plants/)
+  - [Certificate RSScholl](https://app.rs.school/certificate/mpr62sq7)
 
 ---
 
